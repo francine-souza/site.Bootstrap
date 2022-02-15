@@ -1,0 +1,47 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color: #086A87;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.quem-somos{
+    background-color: #58ACFA;
+    color: white;
+    border: 1.5px solid black;
+   
+}
+.bordaimagem{
+    border: 2px solid black;
+}
+.imagem{
+    border-radius: 10px;
+    border: 1.5px solid black;
+    
+   
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+    border-radius: 3px;
+
+}
+.parceiros{
+    background-color:#04B4AE ;
+    color: white;
+    border: 1.5px solid black;
+
+}
+.servicos{
+    background-color:#848484;
+    color: white;
+    border: 1.5px solid black;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
